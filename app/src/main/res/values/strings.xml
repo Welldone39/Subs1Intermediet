@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Subs1Intermediet</string>
+    <string name="loading" translatable="false">Loading....</string>
+    <string name="login_heading">Sign in to your account</string>
+    <string name="email_error">Invalid E-mail</string>
+    <string name="label_name">Name</string>
+    <string name="label_email">E-mail</string>
+    <string name="label_password">Password</string>
+    <string name="dont_have_an_account">Dont have an account?</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign In</string>
+    <string name="heading_register">Come on, register now!!. Join us for a more exciting experience!!</string>
+    <string name="error_password">Password must be 8 characters</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="error">Error</string>
+    <string name="title_home">Home</string>
+    <string name="title_setting">Setting</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_gallery">Gallery</string>
+    <string name="description">Description</string>
+    <string name="title_send">Send</string>
+    <string name="title_add_story">Add Story</string>
+    <string name="please_fill_all_fields">Please fill all fields</string>
+    <string name="unknown_error" translatable="false">Unknown Error</string>
+    <string name="detail_story">Detail Story</string>
+    <string name="title_logout">Logout</string>
+    <string name="title_change_language">Change Language</string>
+    <string name="login_success">Login Success</string>
+    <string name="register_success">Register Success</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
